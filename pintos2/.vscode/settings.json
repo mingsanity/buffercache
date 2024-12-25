@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "syscall.h": "c",
+        "stdint.h": "c",
+        "vaddr.h": "c",
+        "string.h": "c",
+        "process.h": "c",
+        "exception.h": "c",
+        "*.inc": "c"
+    }
+}
